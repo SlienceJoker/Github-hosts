@@ -7,6 +7,9 @@ github的ipv4地址，加速github访问
 ### 维护时间
 >取决于笔者的网络环境，和git命令的便利程度。
 
+### 维护终止
+>目前笔者github访问基本正常，故终止维护。
+
 ### Note
 > 添加hosts后注意刷新DNS，mac、Linux、Windows刷新DNS的指令各不相同。
 > - mac
